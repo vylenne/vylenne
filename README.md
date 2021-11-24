@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+#### GITHUB ACTIVITY <img src="https://i.gifer.com/origin/63/63dc30909383c81160bdae062ce7ec82_w200.gif" width="75">
+
+</br>
+
+![My stats](https://github-readme-stats.vercel.app/api?username=bgrvRvshn&show_icons=true&theme=dark&count_private=true)
 
 <!--
 **vylenne/vylenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
