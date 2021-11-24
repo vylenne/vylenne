@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-#### GITHUB ACTIVITY <img src="https://i.gifer.com/origin/63/63dc30909383c81160bdae062ce7ec82_w200.gif" width="75">
-
-</br>
+#### GITHUB ACTIVITY
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=vylenne&show_icons=true&theme=light&count_private=true)
 
