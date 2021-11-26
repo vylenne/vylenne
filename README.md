@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello buddy!👋
 
 #### GITHUB ACTIVITY
 
