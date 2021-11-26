@@ -2,7 +2,8 @@
 
 #### GITHUB ACTIVITY
 
-![My stats](https://github-readme-stats.vercel.app/api?username=vylenne&show_icons=true&theme=light&count_private=true)
+![My stats](https://github-readme-stats.vercel.app/api?username=vylenne&show_icons=true&theme=light&count_private=true)  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vylenne&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <!--
 **vylenne/vylenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
