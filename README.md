@@ -9,9 +9,9 @@
 ## Current Project
 
 <p width="100%" align="center">
-  <a align="left" href="https://github.com/vylenne/weather_test" title="weather">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/vylenne/weather_test" title="Data Structures">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vylenne&repo=weather_test&theme=gotham">
+  <a align="left" href="https://github.com/vylenne/design-patterns-for-humans-rus" title="weather">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vylenne&repo=design-patterns-for-humans-rus&theme=light"></a><a align="right" href="https://github.com/vylenne/design-patterns-for-humans-rus" title="Design Patterns">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vylenne&repo=design-patterns-for-humans-rus&theme=light">
   </a>
 </p>
 <br>
