@@ -16,11 +16,7 @@
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=vylenne&repo=design-patterns-for-humans-rus&theme=light">
   </a> -->
 </p>
-<br>
-<br>
-<p width="100%">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vylenne.vylenne)
-</p>
+
 
 <!--
 Here are some ideas to get you started:
