@@ -18,7 +18,9 @@
 </p>
 <br>
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vylenne.vylenne)
+<p width="100%">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vylenne.vylenne)
+</p>
 
 <!--
 Here are some ideas to get you started:
