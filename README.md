@@ -27,7 +27,7 @@
 
 ### 🧑🏻‍💻 I’m currently working on
 <p width="100%" align="center">  
-  <a width="100%" href="https://github.com/vylenne/design-patterns-for-humans-rus" title="Design Patterns">
+  <a width="100%" href="https://github.com/vylenne/design-roadmap" title="Design Patterns">
     <img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=vylenne&repo=design-roadmap&theme=light">
   </a>
 </p>
