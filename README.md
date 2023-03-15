@@ -36,7 +36,7 @@ Frontend developer and Interface/Product designer
 * 🖥️  See my portfolio at [https://vylenne.com](http://vylenne.com)
 * ✉️  You can contact me at [v.vylenne@gmail.com](mailto:v.vylenne@gmail.com)
 * 🧠  I'm learning French
-* 🤝  I'm open to collaborating on FinTech, Medicine, Marketing, Eco startups
+* 🤝  I'm open to collaborating on EdTech,FinTech, Medicine, Marketing, Eco startups
 
 ### Skills
 
