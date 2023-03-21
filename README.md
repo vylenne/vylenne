@@ -26,7 +26,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vylenne&show_icons=true&theme=light&count_private=true&include_all_commits=true" />
 </div> -->
 
-Hi 👋 My name is Elvira (Vilena) Vorobeva
+Hi 👋 My name is Elvira (Vilena) Vorobyeva
 =========================================
 
 Frontend developer and Interface/Product designer
