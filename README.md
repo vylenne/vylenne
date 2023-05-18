@@ -7,7 +7,7 @@ Frontend developer and Interface/Product designer
 * 🌍  I'm based in Belgrade, Serbia
 * 🖥️  See my portfolio at [https://vylenne.com](http://vylenne.com)
 * ✉️  You can contact me at [v.vylenne@gmail.com](mailto:v.vylenne@gmail.com)
-* 🧠  I'm learning French and back-end development
+* 🧠  I'm learning French
 * 🤝  I'm open to collaborating on EdTech, FinTech, Medicine, Marketing, Eco startups
 
 ### Skills
