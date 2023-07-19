@@ -57,12 +57,4 @@ Frontend developer and Interface/Product designer
   <a href="https://www.linkedin.com/in/vylenne" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://www.twitter.com/v_vylenne" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
 </p>
-
-<!-- ### My GitHub Stats
-<a href="http://www.github.com/vylenne"><img src="https://github-readme-stats.vercel.app/api?username=vylenne&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="vylenne's GitHub stats" /></a>
-
-<a href="http://www.github.com/vylenne"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vylenne&stroke=64748b&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a> -->
